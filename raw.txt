@@ -1,0 +1,28 @@
+    Name	    Type	    Default	    Description
+1.  value	    array	    null	    An array of objects to display.
+2.  columns	    array	    null	    An array of objects to represent dynamic columns.
+3.  tableStyle	any	null	Inline      style of the table.
+
+
+
+primeicons lib - for icons
+npm install primeicons
+@import "primeicons/primeicons.css"; in style.scss file
+
+
+PrimeFlex CSS lib
+
+npm install primeflex
+https://www.primefaces.org/diamond/icons.xhtml
+
+<!-- Components -->
+Table
+Tag - severity(color)
+Rating
+SelectButton
+
+
+<!-- directives -->
+styleClass
+
+
